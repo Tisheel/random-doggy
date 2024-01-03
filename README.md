@@ -1,2 +1,2 @@
-Get Random Dog pictures....\n
+## Get Random Dog pictures...
 https://tisheel.github.io/random-doggy/
